@@ -60,8 +60,8 @@ Set up the project locally on your machine in minutes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/saas-landing.git
-cd saas-landing
+git clone https://github.com/salmansheri/Agency-landing-page.git
+cd Agency-landing-page
 ```
 
 ### 2. Install Dependencies
